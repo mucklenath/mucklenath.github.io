@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muckleblog</title>
+    <link>http://www.nathanmuckley.com/</link>
+    <description>Recent content on Muckleblog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Dec 2020 15:21:10 +1300</lastBuildDate><atom:link href="http://www.nathanmuckley.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Japan</title>
+      <link>http://www.nathanmuckley.com/post/japan/</link>
+      <pubDate>Fri, 18 Dec 2020 15:21:10 +1300</pubDate>
+      
+      <guid>http://www.nathanmuckley.com/post/japan/</guid>
+      <description>At the start of 2019 I was lucky enough to take a trip to Japan. Here&amp;rsquo;s some of my favourite snaps!</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://www.nathanmuckley.com/post/my-first-post/</link>
+      <pubDate>Fri, 04 Dec 2020 14:40:07 +1300</pubDate>
+      
+      <guid>http://www.nathanmuckley.com/post/my-first-post/</guid>
+      <description>Kia ora!
+This blog exists mostly to test setting up a static site on Amazon S3. I&amp;rsquo;m using Hugo to generate the content.
+I&amp;rsquo;ll start with a few test posts, but hey, this might turn into something cool&amp;hellip;
+Happy browsing.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.nathanmuckley.com/_contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.nathanmuckley.com/_contact/</guid>
+      <description>Get in touch!
+Your NameEmail AddressAn email address is required.Message</description>
+    </item>
+    
+  </channel>
+</rss>
