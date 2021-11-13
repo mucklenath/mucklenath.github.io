@@ -18,7 +18,7 @@ feature_row:
     excerpt: "I like to walk 🌄"
   - image_path: /assets/images/bio2.jpg
     alt: "A cat"
-    title: "Cat"
+    title: "Luna"
     excerpt: "This is my cat 🌙"
   - image_path: /assets/images/bio3.jpg
     title: "Magic"
