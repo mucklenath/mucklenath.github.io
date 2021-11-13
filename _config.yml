@@ -17,6 +17,7 @@ title: Nathan Muckley
 email: nathan.muckley@gmail.com
 description: You're still here?
 github_username: mucklenath
+repository: mucklenath/mucklenath.github.io
 minimal_mistakes_skin: default
 search: true
 
@@ -57,8 +58,9 @@ author:
   name   : "Nathan Muckley"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Traversing the multiverse, and sometimes coding."
+  location : "Wellington, NZ"
   links:
-    - label: "Website"
+    - label: "nathanmuckley.com"
       icon: "fas fa-fw fa-link"
       url: "https://nathanmuckley.com"
     - label: "GitHub"
